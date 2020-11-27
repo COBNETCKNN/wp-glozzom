@@ -1,0 +1,1004 @@
+[24-Nov-2020 22:15:42 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\functions.php on line 22
+[24-Nov-2020 22:25:26 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 77
+[24-Nov-2020 22:25:51 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 41
+[24-Nov-2020 22:25:51 UTC] PHP Stack trace:
+[24-Nov-2020 22:25:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 22:25:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 22:25:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 22:25:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[24-Nov-2020 22:25:51 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 41
+[24-Nov-2020 22:25:51 UTC] PHP Stack trace:
+[24-Nov-2020 22:25:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 22:25:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 22:25:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 22:25:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[24-Nov-2020 22:25:51 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 41
+[24-Nov-2020 22:25:51 UTC] PHP Stack trace:
+[24-Nov-2020 22:25:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 22:25:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 22:25:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 22:25:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[24-Nov-2020 22:25:51 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 41
+[24-Nov-2020 22:25:51 UTC] PHP Stack trace:
+[24-Nov-2020 22:25:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 22:25:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 22:25:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 22:25:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[24-Nov-2020 22:25:52 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 41
+[24-Nov-2020 22:25:52 UTC] PHP Stack trace:
+[24-Nov-2020 22:25:52 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 22:25:52 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 22:25:52 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 22:25:52 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[24-Nov-2020 22:25:52 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 41
+[24-Nov-2020 22:25:52 UTC] PHP Stack trace:
+[24-Nov-2020 22:25:52 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 22:25:52 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 22:25:52 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 22:25:52 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[24-Nov-2020 22:40:05 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 67
+[24-Nov-2020 22:40:50 UTC] PHP Parse error:  syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 60
+[24-Nov-2020 22:42:21 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 68
+[24-Nov-2020 22:42:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 68
+[24-Nov-2020 22:42:40 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 68
+[24-Nov-2020 22:42:44 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 68
+[24-Nov-2020 23:11:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 10
+[24-Nov-2020 23:11:18 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 38
+[24-Nov-2020 23:19:05 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 46
+[24-Nov-2020 23:19:05 UTC] PHP Stack trace:
+[24-Nov-2020 23:19:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 23:19:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 23:19:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 23:19:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[24-Nov-2020 23:19:05 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 46
+[24-Nov-2020 23:19:05 UTC] PHP Stack trace:
+[24-Nov-2020 23:19:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 23:19:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 23:19:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 23:19:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[24-Nov-2020 23:19:05 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 46
+[24-Nov-2020 23:19:05 UTC] PHP Stack trace:
+[24-Nov-2020 23:19:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 23:19:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 23:19:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 23:19:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[24-Nov-2020 23:25:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 46
+[24-Nov-2020 23:30:14 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 108
+[24-Nov-2020 23:30:28 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 108
+[24-Nov-2020 23:30:45 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 108
+[24-Nov-2020 23:30:48 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 108
+[24-Nov-2020 23:31:05 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 108
+[24-Nov-2020 23:31:32 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 126
+[24-Nov-2020 23:31:41 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 126
+[24-Nov-2020 23:38:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 3
+[24-Nov-2020 23:38:11 UTC] PHP Parse error:  syntax error, unexpected '$title' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 37
+[24-Nov-2020 23:38:13 UTC] PHP Parse error:  syntax error, unexpected '$title' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 34
+[24-Nov-2020 23:38:14 UTC] PHP Parse error:  syntax error, unexpected '$title' (T_VARIABLE), expecting ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 35
+[24-Nov-2020 23:38:25 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 110
+[24-Nov-2020 23:38:52 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 111
+[24-Nov-2020 23:39:05 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 109
+[24-Nov-2020 23:40:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[24-Nov-2020 23:40:23 UTC] PHP Stack trace:
+[24-Nov-2020 23:40:23 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 23:40:23 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 23:40:23 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 23:40:23 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[24-Nov-2020 23:40:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 41
+[24-Nov-2020 23:40:23 UTC] PHP Stack trace:
+[24-Nov-2020 23:40:24 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[24-Nov-2020 23:40:24 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[24-Nov-2020 23:40:24 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[24-Nov-2020 23:40:24 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 20:25:37 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 55
+[25-Nov-2020 20:25:50 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 23
+[25-Nov-2020 20:25:50 UTC] PHP Stack trace:
+[25-Nov-2020 20:25:50 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 20:25:50 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 20:25:50 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 20:25:50 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 20:25:50 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 23
+[25-Nov-2020 20:25:50 UTC] PHP Stack trace:
+[25-Nov-2020 20:25:50 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 20:25:50 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 20:25:50 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 20:25:50 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 20:25:50 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 23
+[25-Nov-2020 20:25:50 UTC] PHP Stack trace:
+[25-Nov-2020 20:25:50 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 20:25:50 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 20:25:50 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 20:25:50 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 20:25:50 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 23
+[25-Nov-2020 20:25:50 UTC] PHP Stack trace:
+[25-Nov-2020 20:25:50 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 20:25:50 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 20:25:50 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 20:25:50 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 20:25:50 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 23
+[25-Nov-2020 20:25:50 UTC] PHP Stack trace:
+[25-Nov-2020 20:25:50 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 20:25:50 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 20:25:50 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 20:25:50 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 20:25:50 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 23
+[25-Nov-2020 20:25:50 UTC] PHP Stack trace:
+[25-Nov-2020 20:25:50 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 20:25:50 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 20:25:50 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 20:25:50 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 20:50:15 UTC] PHP Parse error:  syntax error, unexpected 'active' (T_STRING), expecting ',' or ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 32
+[25-Nov-2020 20:50:24 UTC] PHP Parse error:  syntax error, unexpected 'active' (T_STRING), expecting ',' or ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 32
+[25-Nov-2020 21:42:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php:108
+Stack trace:
+#0 C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\COBNET...')
+#2 C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php(17): require('C:\\Users\\COBNET...')
+#3 {main}
+  thrown in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 108
+[25-Nov-2020 22:43:54 UTC] PHP Warning:  Use of undefined constant sizes - assumed 'sizes' (this will throw an Error in a future version of PHP) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:43:54 UTC] PHP Stack trace:
+[25-Nov-2020 22:43:54 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:43:54 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:43:54 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:43:54 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:43:54 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:43:54 UTC] PHP Stack trace:
+[25-Nov-2020 22:43:54 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:43:54 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:43:54 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:43:54 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:43:54 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:43:54 UTC] PHP Stack trace:
+[25-Nov-2020 22:43:54 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:43:54 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:43:54 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:43:54 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:43:54 UTC] PHP Warning:  Use of undefined constant sizes - assumed 'sizes' (this will throw an Error in a future version of PHP) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:43:54 UTC] PHP Stack trace:
+[25-Nov-2020 22:43:54 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:43:54 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:43:54 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:43:54 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:43:54 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:43:54 UTC] PHP Stack trace:
+[25-Nov-2020 22:43:54 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:43:54 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:43:54 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:43:54 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:43:54 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:43:54 UTC] PHP Stack trace:
+[25-Nov-2020 22:43:54 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:43:54 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:43:54 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:43:54 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:43:54 UTC] PHP Warning:  Use of undefined constant sizes - assumed 'sizes' (this will throw an Error in a future version of PHP) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:43:54 UTC] PHP Stack trace:
+[25-Nov-2020 22:43:54 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:43:54 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:43:54 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:43:54 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:43:54 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:43:54 UTC] PHP Stack trace:
+[25-Nov-2020 22:43:54 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:43:54 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:43:54 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:43:54 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:43:54 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:43:54 UTC] PHP Stack trace:
+[25-Nov-2020 22:43:54 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:43:54 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:43:54 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:43:54 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:44:10 UTC] PHP Warning:  Use of undefined constant sizes - assumed 'sizes' (this will throw an Error in a future version of PHP) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:44:10 UTC] PHP Stack trace:
+[25-Nov-2020 22:44:10 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:44:10 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:44:10 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:44:11 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:44:11 UTC] PHP Warning:  Use of undefined constant sizes - assumed 'sizes' (this will throw an Error in a future version of PHP) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:44:11 UTC] PHP Stack trace:
+[25-Nov-2020 22:44:11 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:44:11 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:44:11 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:44:11 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:44:11 UTC] PHP Warning:  Use of undefined constant sizes - assumed 'sizes' (this will throw an Error in a future version of PHP) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:44:11 UTC] PHP Stack trace:
+[25-Nov-2020 22:44:11 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:44:11 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:44:11 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:44:11 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:46:14 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:46:14 UTC] PHP Stack trace:
+[25-Nov-2020 22:46:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:46:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:46:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:46:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:46:14 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:46:14 UTC] PHP Stack trace:
+[25-Nov-2020 22:46:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:46:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:46:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:46:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:46:14 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:46:14 UTC] PHP Stack trace:
+[25-Nov-2020 22:46:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:46:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:46:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:46:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:46:14 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:46:14 UTC] PHP Stack trace:
+[25-Nov-2020 22:46:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:46:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:46:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:46:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:46:14 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:46:14 UTC] PHP Stack trace:
+[25-Nov-2020 22:46:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:46:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:46:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:46:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:46:14 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:46:14 UTC] PHP Stack trace:
+[25-Nov-2020 22:46:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:46:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:46:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:46:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:53:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 18
+[25-Nov-2020 22:53:51 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:53:51 UTC] PHP Stack trace:
+[25-Nov-2020 22:53:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:53:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:53:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:53:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:53:51 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:53:51 UTC] PHP Stack trace:
+[25-Nov-2020 22:53:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:53:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:53:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:53:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:53:51 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:53:51 UTC] PHP Stack trace:
+[25-Nov-2020 22:53:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:53:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:53:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:53:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:53:51 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:53:51 UTC] PHP Stack trace:
+[25-Nov-2020 22:53:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:53:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:53:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:53:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:53:51 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:53:51 UTC] PHP Stack trace:
+[25-Nov-2020 22:53:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:53:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:53:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:53:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:53:51 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:53:51 UTC] PHP Stack trace:
+[25-Nov-2020 22:53:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:53:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:53:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:53:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:07 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:07 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:07 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:07 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:07 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:07 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:07 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:07 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:07 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:07 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:07 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:07 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:22 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:22 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:22 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:22 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:22 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:22 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:22 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:22 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:22 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:22 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:22 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:22 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:22 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:22 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:22 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:22 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:22 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:22 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:22 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:22 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:22 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:23 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:23 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:23 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:23 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:23 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:23 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:23 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:23 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:23 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:54:23 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 19
+[25-Nov-2020 22:54:23 UTC] PHP Stack trace:
+[25-Nov-2020 22:54:23 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:54:23 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:54:23 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:54:23 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:04 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:04 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:04 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:04 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:04 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:04 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:04 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:04 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:04 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:04 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:04 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:04 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:04 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:04 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:04 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:04 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:04 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:04 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:04 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:04 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:04 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:04 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:04 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:04 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:04 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:04 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:04 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:04 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:04 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:04 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:04 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:04 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:04 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:04 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:04 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:04 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:56:44 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:56:44 UTC] PHP Stack trace:
+[25-Nov-2020 22:56:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:56:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:56:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:56:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 17
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:57:19 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:57:19 UTC] PHP Stack trace:
+[25-Nov-2020 22:57:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:57:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:57:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:57:19 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:58:01 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:58:01 UTC] PHP Stack trace:
+[25-Nov-2020 22:58:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:58:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:58:01 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:58:01 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:58:01 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:58:01 UTC] PHP Stack trace:
+[25-Nov-2020 22:58:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:58:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:58:01 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:58:01 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:58:01 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:58:01 UTC] PHP Stack trace:
+[25-Nov-2020 22:58:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:58:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:58:01 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:58:01 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:58:01 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:58:01 UTC] PHP Stack trace:
+[25-Nov-2020 22:58:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:58:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:58:01 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:58:01 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:58:01 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:58:01 UTC] PHP Stack trace:
+[25-Nov-2020 22:58:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:58:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:58:01 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:58:01 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:58:01 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:58:01 UTC] PHP Stack trace:
+[25-Nov-2020 22:58:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:58:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:58:01 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:58:01 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:26 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:26 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:26 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:26 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:26 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:26 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:26 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:26 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:26 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:26 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:26 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:26 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:26 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:26 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:26 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:26 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:26 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:26 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:26 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:26 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:26 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:26 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:26 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:26 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:26 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:26 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:26 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:26 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:26 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:26 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:26 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:26 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:26 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:26 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:26 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:26 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:26 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:26 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:26 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:26 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:26 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:26 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:26 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:26 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:26 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:26 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:26 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:26 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:26 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:27 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:27 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:27 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:27 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:27 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:41 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:41 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:41 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:41 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:41 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:41 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:41 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:41 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 22:59:41 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 22:59:41 UTC] PHP Stack trace:
+[25-Nov-2020 22:59:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 22:59:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 22:59:41 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 22:59:41 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:01:05 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 23:01:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:01:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:01:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:01:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:01:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:01:05 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 23:01:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:01:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:01:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:01:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:01:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:01:05 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 23:01:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:01:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:01:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:01:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:01:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:01:24 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 23:01:24 UTC] PHP Stack trace:
+[25-Nov-2020 23:01:24 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:01:24 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:01:24 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:01:24 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:01:24 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 23:01:24 UTC] PHP Stack trace:
+[25-Nov-2020 23:01:24 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:01:24 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:01:24 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:01:24 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:01:24 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 26
+[25-Nov-2020 23:01:24 UTC] PHP Stack trace:
+[25-Nov-2020 23:01:24 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:01:24 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:01:24 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:01:24 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:04:11 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:04:25 UTC] PHP Parse error:  syntax error, unexpected '$size' (T_VARIABLE), expecting ',' or ';' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:04:51 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:04:51 UTC] PHP Stack trace:
+[25-Nov-2020 23:04:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:04:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:04:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:04:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:04:51 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:04:51 UTC] PHP Stack trace:
+[25-Nov-2020 23:04:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:04:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:04:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:04:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:04:51 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:04:51 UTC] PHP Stack trace:
+[25-Nov-2020 23:04:51 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:04:51 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:04:51 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:04:51 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:40 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:40 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:40 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:40 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:40 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:40 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:40 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:40 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:40 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:40 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:40 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:40 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:40 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:40 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:40 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:40 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:40 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:40 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:49 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:49 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:49 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:49 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:49 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:49 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:49 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:49 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:49 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:49 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:49 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:49 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:49 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:49 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:49 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:49 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:49 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:49 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:49 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:49 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:49 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:49 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:49 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:49 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:49 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:49 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:49 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:49 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:49 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:49 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:49 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:49 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:49 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:49 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:49 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:49 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:49 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:49 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:49 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:49 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:49 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:49 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:49 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:49 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:49 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:49 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:49 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:49 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:05:49 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:05:49 UTC] PHP Stack trace:
+[25-Nov-2020 23:05:49 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:05:50 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:05:50 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:05:50 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:06:02 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:06:02 UTC] PHP Stack trace:
+[25-Nov-2020 23:06:02 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:06:02 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:06:02 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:06:02 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:06:02 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:06:02 UTC] PHP Stack trace:
+[25-Nov-2020 23:06:02 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:06:02 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:06:02 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:06:02 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:06:02 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:06:02 UTC] PHP Stack trace:
+[25-Nov-2020 23:06:02 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:06:02 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:06:02 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:06:02 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:07:05 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:07:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:07:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:07:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:07:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:07:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:07:05 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:07:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:07:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:07:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:07:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:07:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:07:05 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:07:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:07:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:07:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:07:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:07:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:07:05 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:07:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:07:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:07:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:07:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:07:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:07:05 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:07:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:07:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:07:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:07:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:07:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:07:05 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:07:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:07:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:07:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:07:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:07:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:07:05 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:07:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:07:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:07:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:07:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:07:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:07:05 UTC] PHP Warning:  Illegal string offset 'sliderSize' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:07:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:07:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:07:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:07:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:07:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[25-Nov-2020 23:07:05 UTC] PHP Warning:  Illegal string offset 'title' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 27
+[25-Nov-2020 23:07:05 UTC] PHP Stack trace:
+[25-Nov-2020 23:07:05 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[25-Nov-2020 23:07:05 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[25-Nov-2020 23:07:05 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[25-Nov-2020 23:07:05 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:06 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 172
+[26-Nov-2020 20:21:06 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:06 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:06 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:06 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:06 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:06 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:06 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:06 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:06 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:06 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:06 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:06 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 172
+[26-Nov-2020 20:21:06 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:06 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:06 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:06 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:06 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:06 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:06 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:06 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:06 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:06 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:06 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:06 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 172
+[26-Nov-2020 20:21:06 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:06 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:06 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:06 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:06 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 172
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 172
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 172
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 172
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 172
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'url' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 172
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106
+[26-Nov-2020 20:21:07 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\front-page.php on line 173
+[26-Nov-2020 20:21:07 UTC] PHP Stack trace:
+[26-Nov-2020 20:21:07 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:0
+[26-Nov-2020 20:21:07 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php:17
+[26-Nov-2020 20:21:07 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php:19
+[26-Nov-2020 20:21:07 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php:106

@@ -11,7 +11,7 @@
 
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
       <div class="container">
-        <a href="index.html" class="navbar-brand">Glozzom</a>
+        <a href="<?php echo site_url(); ?>" class="navbar-brand">Glozzom</a>
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
           <span class="navbar-toggler-icon"></span>
         </button>

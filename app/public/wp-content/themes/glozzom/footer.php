@@ -3,7 +3,8 @@
     wp_footer(); ?>
 
 
-<footer id="main-footer" class="text-center p-4 bg-dark text-light">
+
+<footer id="main-footer" class="text-center p-4 w-100">
     <div class="container">
     <div class="row">
         <div class="col">
