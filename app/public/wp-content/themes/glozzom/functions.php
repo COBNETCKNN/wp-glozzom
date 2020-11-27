@@ -16,6 +16,7 @@ function glozzom_files() {
     wp_enqueue_style('mainCSS', get_template_directory_uri() . '/css/main.css');
     wp_enqueue_style('slickCSS', get_template_directory_uri() . '/slick/slick/slick.css');
     wp_enqueue_style('slickLightboxJS', get_template_directory_uri() . '/slick-lightbox/dist/slick-lightbox.css');
+    wp_enqueue_style('slickThemeCSS', get_template_directory_uri() . '/slick/slick/slick-theme.css');
 
 }
 
