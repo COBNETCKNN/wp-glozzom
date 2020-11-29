@@ -14,8 +14,8 @@ if( have_rows('carousel_slider') ):
  	// loop through the rows of data for the tab header
     while ( have_rows('carousel_slider') ) : the_row();
 		
-      $image          = get_sub_field('carousel_image');
-      $size           = 'sliderSize';
+        $image        = get_sub_field('carousel_image');
+        $size         = 'sliderSize';
         $title        = get_sub_field('carousel_title');
         $subtitle     = get_sub_field('carousel_subtitle');
         $button_text  = get_sub_field('carousel_button_text');

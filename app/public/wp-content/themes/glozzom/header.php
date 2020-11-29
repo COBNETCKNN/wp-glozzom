@@ -23,8 +23,8 @@
             <li <?php if(is_page('about-us')) echo 'class="nav-item active"' ?>>
               <a href="<?php echo esc_url(site_url('/about-us'));?>" class="nav-link">About Us</a>
             </li>
-            <li class="nav-item ">
-              <a href="services.html" class="nav-link">Services</a>
+            <li <?php if(get_post_type() == 'service') echo 'class="nav-item active"' ?>>
+              <a href="<?php echo get_post_type_archive_link('service');?>" class="nav-link">Services</a>
             </li>
             <li class="nav-item ">
               <a href="blog.html" class="nav-link">Blog</a>

@@ -112,54 +112,54 @@
 
     <!-- TESTIMONIALS -->
 
-<section id="testimonials" class="p-4 bg-dark text-white">
-    <div class="container">
-        <h2 class="text-center">
-            Testimonials
-        </h2>
+    <section id="testimonials" class="p-4 bg-dark text-white">
+        <div class="container">
+            <h2 class="text-center">
+                Testimonials
+            </h2>
 
-<?php
-// Check rows exists.
-if( have_rows('testimonials') ): ?>
+    <?php
+    // Check rows exists.
+    if( have_rows('testimonials') ): ?>
 
-    <div class="row text-center">
-        <div class="col">
-            <div class="slider testimonial">
+        <div class="row text-center">
+            <div class="col">
+                <div class="slider testimonial">
 
-<?php
-    // Loop through rows.
-    while( have_rows('testimonials') ) : the_row();
+    <?php
+        // Loop through rows.
+        while( have_rows('testimonials') ) : the_row();
 
-        $testimonial = get_sub_field('testimonial_comment');
-        $author      = get_sub_field('testimonial_author');
-        $company     = get_sub_field('testimonial_company');
+            $testimonial = get_sub_field('testimonial_comment');
+            $author      = get_sub_field('testimonial_author');
+            $company     = get_sub_field('testimonial_company');
 
-        ?>
+            ?>
 
-            <div>
-                <blockquote class="blockquote">
-                    <p class="mb-0">
-                        <?php echo $testimonial ?>
-                    </p>
-                    <footer class="blockquote-footer"><?php echo $author;  ?>
-                        <cite title="Company 1">from <?php echo $company; ?></cite>
-                    </footer>
-                </blockquote>
-            </div>
+                <div>
+                    <blockquote class="blockquote">
+                        <p class="mb-0">
+                            <?php echo $testimonial ?>
+                        </p>
+                        <footer class="blockquote-footer"><?php echo $author;  ?>
+                            <cite title="Company 1">from <?php echo $company; ?></cite>
+                        </footer>
+                    </blockquote>
+                </div>
 
-    <?php endwhile; ?>
+        <?php endwhile; ?>
 
+                    </div>
                 </div>
             </div>
-        </div>
 
-<?php endif; ?>
+    <?php endif; ?>
 
-        </div)>
-    </section>
+            </div)>
+        </section>
 
 
-<?php 
-    }
+    <?php 
+        }
 
 get_footer(); ?>

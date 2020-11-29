@@ -1008,3 +1008,6 @@ Stack trace:
 [27-Nov-2020 21:35:46 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\header.php on line 20
 [27-Nov-2020 21:35:50 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\header.php on line 20
 [27-Nov-2020 21:38:49 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\header.php on line 27
+[28-Nov-2020 21:59:27 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\archive-service.php on line 19
+[28-Nov-2020 22:11:01 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\archive-service.php on line 64
+[28-Nov-2020 23:13:05 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\archive-service.php on line 48
