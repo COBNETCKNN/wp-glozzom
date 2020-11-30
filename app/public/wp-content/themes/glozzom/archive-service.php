@@ -19,8 +19,21 @@
         <div class="container mb-4">
             <div class="row">
 
-    <?php while(have_posts()){
-        the_post(); ?>
+
+
+    <?php 
+
+// custom query for sorting our services by price
+    $servicesOrdering = new WP_Query(array(
+        'post_type' => 'service',
+        'meta_key'  => 'service_cost',
+        'orderby'   => 'meta_value_num',
+        'order'     => 'ASC'
+    ));
+    
+    while($servicesOrdering->have_posts()){
+        $servicesOrdering->the_post(); ?>
+
 
     <?php 
     
@@ -61,8 +74,6 @@
 
                                 <?php endif; ?>
 
-                                
-
                             <a href="<?php echo $service_link; ?>" class="btn btn-danger btn-block mt-2">Get It</a>
                         </div>
                         <div class="card-footer text-muted">
@@ -71,13 +82,34 @@
                     </div>
                 </div>
 <?php
-    } ?>
+    } 
+           wp_reset_postdata();    
+    ?>
 
         </div>
     </div>
+</section>
+
+
 
 
 <!-- FREQUENTLY ASKED QUESTIONS SECTION -->
+
+<?php 
+
+// custom WP query for sorting out questions
+    $faQuestions = new WP_Query(array(
+        'post_type' => 'service',
+        'meta_key'  => 'faq_repeater',
+        'orderby'   => 'meta_value_num',
+        'order'     => 'ASC'
+    ));
+
+    while($faQuestions->have_posts()) {
+        $faQuestions->the_post();
+  
+
+?>
 
 <section id="faq" class="p-5 bg-dark text-white">
     <div class="container">
@@ -88,7 +120,7 @@
         <div class="row">
             <div class="col text-center">
 
-<?php 
+<?php
 // check if the repeater field has rows of data
 if( have_rows('faq_repeater') ):
 	$i = 1; // Set the increment variable
@@ -129,6 +161,13 @@ endif; ?>
         </div>
     </div>
 </section>
+
+
+<?php   
+        } 
+
+    wp_reset_postdata();
+?>
 
 
 
