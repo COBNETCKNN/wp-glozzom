@@ -1043,3 +1043,21 @@ Stack trace:
   thrown in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\archive-service.php on line 30
 [30-Nov-2020 21:46:46 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\archive-service.php on line 111
 [30-Nov-2020 21:53:28 UTC] PHP Parse error:  syntax error, unexpected '$servicesOrdering' (T_VARIABLE) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\archive-service.php on line 35
+[30-Nov-2020 22:12:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_author_post_link() in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php:32
+Stack trace:
+#0 C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\COBNET...')
+#2 C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php(17): require('C:\\Users\\COBNET...')
+#3 {main}
+  thrown in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php on line 32
+[30-Nov-2020 22:21:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php on line 44
+[30-Nov-2020 22:48:27 UTC] PHP Parse error:  syntax error, unexpected '>' in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php on line 28
+[30-Nov-2020 22:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php:50
+Stack trace:
+#0 C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-blog-header.php(19): require_once('C:\\Users\\COBNET...')
+#2 C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\index.php(17): require('C:\\Users\\COBNET...')
+#3 {main}
+  thrown in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php on line 50
+[01-Dec-2020 22:45:02 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php on line 48
+[01-Dec-2020 22:45:22 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php on line 48

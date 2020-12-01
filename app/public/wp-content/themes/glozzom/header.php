@@ -26,8 +26,8 @@
             <li <?php if(get_post_type() == 'service') echo 'class="nav-item active"' ?>>
               <a href="<?php echo get_post_type_archive_link('service');?>" class="nav-link">Services</a>
             </li>
-            <li class="nav-item ">
-              <a href="blog.html" class="nav-link">Blog</a>
+            <li <?php if(get_post_type() == 'post') echo 'class="nav-item-active"' ?>>
+              <a href="<?php echo esc_url(site_url('/blog'));?>" class="nav-link">Blog</a>
             </li>
             <li class="nav-item ">
               <a href="contact.html" class="nav-link">Contact</a>
