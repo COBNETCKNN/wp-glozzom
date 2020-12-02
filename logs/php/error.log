@@ -1061,3 +1061,7 @@ Stack trace:
   thrown in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php on line 50
 [01-Dec-2020 22:45:02 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php on line 48
 [01-Dec-2020 22:45:22 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\index.php on line 48
+[02-Dec-2020 21:24:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\header.php on line 32
+[02-Dec-2020 21:24:23 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\header.php on line 32
+[02-Dec-2020 21:25:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\header.php on line 32
+[02-Dec-2020 22:48:12 UTC] PHP Parse error:  syntax error, unexpected 'position' (T_STRING) in C:\Users\COBNETCKNN\Local Sites\glozzom\app\public\wp-content\themes\glozzom\page-contact-us.php on line 143

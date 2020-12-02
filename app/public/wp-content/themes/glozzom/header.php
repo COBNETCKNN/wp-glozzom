@@ -26,11 +26,11 @@
             <li <?php if(get_post_type() == 'service') echo 'class="nav-item active"' ?>>
               <a href="<?php echo get_post_type_archive_link('service');?>" class="nav-link">Services</a>
             </li>
-            <li <?php if(get_post_type() == 'post') echo 'class="nav-item-active"' ?>>
+            <li <?php if(get_post_type() == 'post') echo 'class="nav-item active"' ?>>
               <a href="<?php echo esc_url(site_url('/blog'));?>" class="nav-link">Blog</a>
             </li>
-            <li class="nav-item ">
-              <a href="contact.html" class="nav-link">Contact</a>
+            <li <?php if(is_page('contact-us')) echo 'class="nav-item active"' ?>>
+              <a href="<?php echo esc_url(site_url('/contact-us'))?>" class="nav-link">Contact</a>
             </li>
           </ul>
         </div>

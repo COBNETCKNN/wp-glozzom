@@ -36,10 +36,8 @@ add_action('after_setup_theme', 'glozzom_features');
 // REMOVING FEATURES FROM POST TYPES
 function remove_content_editor() {
     
-    // removing editor from homepage
-    if((int) get_option('page_on_front')==get_the_ID()) {
-        remove_post_type_support('page', 'editor');
-    }
+    // removing editor from all pages
+    remove_post_type_support('page', 'editor');
 
     // removing editor from services post type
     remove_post_type_support('service', 'editor');

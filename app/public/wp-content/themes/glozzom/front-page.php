@@ -169,7 +169,7 @@ endif; ?>
           <?php foreach( $images as $image ): ?> 
             
             <a href="<?php echo $image['url']; ?>" target="_blank" class="thumbnail"> 
-                <img class="m-2" src="<?php echo $image['sizes']['medium']; ?>" alt="<?php the_title(); ?>" width="350" height="350"/> 
+                <img class="m-2" src="<?php echo $image['sizes']['medium']; ?>" alt="<?php the_title(); ?>" width="350" height="300"/> 
             </a> 
 
           <?php endforeach; ?> 
