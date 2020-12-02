@@ -1,5 +1,8 @@
 <?php  
 
+// contact us form functions files
+require get_theme_file_path('/includes/contact-us-route.php');
+
 
 function glozzom_files() {
 
