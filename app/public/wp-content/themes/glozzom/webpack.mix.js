@@ -13,8 +13,16 @@ let mix = require('laravel-mix');
 
 
 mix
-    .js('src/app.js', 'js/main.js')
-    .babel('src/app.js', 'js/main.js')
+    .js([
+        './src/app.js',
+        './js/modules/Slick.js',
+        './js/modules/ContactUs.js'
+    ], 'js/main.js')
+    .babel([
+        './src/app.js',
+        './js/modules/Slick.js',
+        './js/modules/ContactUs.js'
+    ], 'js/main.js')
     .sass('src/app.scss', 'css/main.css');
 
 mix

@@ -19,7 +19,7 @@
             <?php while( have_posts() ) {
                 the_post();
                 ?>
-                <div class="col d-flex align-items-stretch">
+                <div class="col-sm d-flex align-items-stretch">
                     <div class="card">
                         <img src="<?php the_post_thumbnail_url('medium')?>" alt="" class="img-fluid card-img-top">
                         <div class="card-body">

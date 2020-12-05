@@ -47,7 +47,7 @@
             <div class="col-md-8">
                 <div class="card p-4">
                     <div class="card-body">
-                        <h3 class="text-center">Please Fill out this form to contact us</h3>
+                        <h3 class="text-center">Have a question? Submit it here.</h3>
                         <hr>
                          <form id="form_contact">
                          <div class="row">

@@ -24,7 +24,7 @@ if( have_rows('carousel_slider') ):
 	?>
 	
      <div class="carousel-item <?php if($i == 1) echo 'active'; ?>"> 
-      <img class="background-overlay d-block w-100" src="<?php echo $image['sizes']['sliderSize']; ?>" alt="<?php echo $image['title']; ?>">
+      <img class="background-overlay d-block" src="<?php echo $image['sizes']['sliderSize']; ?>" alt="<?php echo $image['title']; ?>">
         <div class="carousel-caption d-none d-sm-block text-right mb-5">
             <div class="<?php 
                 if($i == 1) echo 'text-left';
@@ -164,7 +164,7 @@ endif; ?>
       <section>
         <div class="container mb-3">
           <div class="row">
-          <div class="gallery"> 
+          <div class="gallery text-center"> 
 
           <?php foreach( $images as $image ): ?> 
             
